@@ -1,0 +1,7 @@
+{
+  "name": "Klassygo",
+  "description": "A comprehensive User Activity & Attendance Management System featuring real-time tracking, role-based access, and AI-powered performance summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
